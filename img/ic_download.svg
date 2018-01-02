@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>xiazai</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="xiazai">
+            <g id="Group-5" transform="translate(1.000000, 1.000000)">
+                <g id="Group-6" transform="translate(5.000000, 4.000000)" fill="#2F4359">
+                    <rect id="Rectangle-3" x="0" y="17" width="18.6666667" height="2.33333333" rx="1.16666667"></rect>
+                    <path d="M15.4352442,8.67940552 L9.72823779,14.3864119 C9.49044586,14.6242038 9.19320594,14.7430998 8.89596603,14.7430998 C8.59872611,14.7430998 8.3014862,14.6242038 8.06369427,14.3864119 L2.3566879,8.67940552 C1.88110403,8.20382166 1.88110403,7.49044586 2.3566879,7.014862 C2.83227176,6.53927813 3.54564756,6.53927813 4.02123142,7.014862 L7.70700637,10.7006369 L7.70700637,1.18895966 C7.70700637,0.535031847 8.24203822,0 8.89596603,0 C9.54989384,0 10.0849257,0.535031847 10.0849257,1.18895966 L10.0849257,10.7600849 L13.7707006,7.07430998 C14.2462845,6.59872611 14.9596603,6.59872611 15.4352442,7.07430998 C15.910828,7.49044586 15.910828,8.20382166 15.4352442,8.67940552 Z" id="Path"></path>
+                </g>
+                <rect id="Rectangle-6" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="28" height="28"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
